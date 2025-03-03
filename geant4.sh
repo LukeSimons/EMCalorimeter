@@ -76,7 +76,7 @@ export G4ABLADATA="/home/lsimons/Software/geant4-v11.0.1-install/share/Geant4-11
 export G4INCLDATA="/home/lsimons/Software/geant4-v11.0.1-install/share/Geant4-11.0.1/data/G4INCL1.0"
 export G4ENSDFSTATEDATA="/home/lsimons/Software/geant4-v11.0.1-install/share/Geant4-11.0.1/data/G4ENSDFSTATE2.3"
 
-cd /home/lsimons/Software/hxrdet
+cd /home/lsimons/Software/geant4-examples/TestEm3
 # - Fonts for Freetype
 # FREETYPE SUPPORT NOT AVAILABLE
 
